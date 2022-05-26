@@ -17,4 +17,6 @@ header {
 
 main {
 	background: rgba(149, 148, 148, 0.802);
+	color: white;
+	text-align: center;
 }
